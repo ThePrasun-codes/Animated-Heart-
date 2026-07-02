@@ -2,7 +2,7 @@
 A beautiful 3D Animated Heart built using **Three.js**, **GSAP**, and **JavaScript**. The animation creates thousands of particles that smoothly form a glowing heart with interactive camera controls.
 
 ## 🚀 Live Demo
-https://theprasun-codes.github.io/Animated-Heart/
+https://theprasun-codes.github.io/Animated-Heart-/
 
 ## ✨ Features
 - ❤️ Beautiful 3D Heart Animation
